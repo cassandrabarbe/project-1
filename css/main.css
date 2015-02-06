@@ -1,0 +1,155 @@
+html {
+  background-color: #ffffff;
+  font-family: arial, sans-serif;
+  font-family: georgia;
+}
+
+h1 {
+
+  font-weight: normal;
+  font-size: 4rem;
+  font-style: normal;
+  font-family: 'Sigmar One', sans-serif;
+  line-height: 1;
+  color: #b50560;
+  padding: 1em 0em 0.5em 0em;
+  margin: 0em;
+  text-align: center;
+  background-color: #ffd74b;
+
+
+}
+
+nav{
+  background-color: #ffd74b;
+  text-align: center;
+
+}
+
+nav ol {
+  list-style-type: none;
+  margins: 0em;
+  padding: 0em;
+}
+
+nav li{
+  display: inline-block;
+}
+
+nav a{
+  display: inline-block;
+  padding: 1em 1.5em
+  color: white;
+  background-color: #ffd74b;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: 1em 2em 0.5em 2em
+}
+
+
+ol {
+  list-style-type: circle;
+  padding: 0;
+  line-height: 1.5;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  background-color: #b50560;
+}
+
+h2 {
+
+  font-weight: normal;
+  font-size: 2rem;
+  font-style: italic;
+  font-family: 'Sigmar One', sans-serif;
+  line-height: 1;
+  color: #b50560;
+}
+
+em {
+  font-weight: bold;
+}
+
+strong {
+  color: white;
+  font-weight: bold;
+}
+
+blockquote {
+  font-weight: bold;
+  font-size: 0.85rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  color: #b2ac0c;
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 1.5;
+  color: white;
+}
+
+li {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: normal;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+}
+
+figure{
+  border: solid;
+  margin: 2em;
+  padding: 0.7em;
+  border-radius: 20px;
+  background-color: #fff4cd;
+}
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.9rem;
+  font-style: italic;
+  font-family: 'Open Sans Condensed', sans-serif;
+  line-height: 1;
+  text-align: center;
+}
+
+dt {
+  font-weight: bold;
+}
+
+footer {
+  background-color: #ffd74b;
+  text-align: left;
+}
+
+img {
+  width: 100%
+}
+
+h3 {
+  font-weight: normal;
+  font-size: 1rem;
+  font-style: italic;
+  font-family: 'Sigmar One', sans-serif;
+  line-height: 1;
+  color: #b50560;
+}
