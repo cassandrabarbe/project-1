@@ -1,6 +1,5 @@
 html {
-  background-color: #ffffff;
-  font-family: arial, sans-serif;
+  background-color: #a9a8a9;
   font-family: georgia;
 }
 
@@ -23,6 +22,7 @@ h1 {
 nav{
   background-color: #ffd74b;
   text-align: center;
+  font-family: georgia;
 
 }
 
@@ -57,7 +57,7 @@ li {
   font-weight: normal;
   font-size: 1rem;
   font-style: normal;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'georgia', serif;
   line-height: 1;
 }
 
@@ -83,6 +83,7 @@ h2 {
 
 em {
   font-weight: bold;
+  font-style: normal;
 }
 
 strong {
@@ -94,9 +95,9 @@ blockquote {
   font-weight: bold;
   font-size: 0.85rem;
   font-style: italic;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'georgia', sans-serif;
   line-height: 1;
-  color: #b2ac0c;
+  color: #e9e6e7;
 }
 
 
@@ -127,18 +128,22 @@ figcaption {
   font-weight: normal;
   font-size: 0.9rem;
   font-style: italic;
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Georgia', serif;
   line-height: 1;
   text-align: center;
+
 }
 
 dt {
   font-weight: bold;
 }
 
+}
+
 footer {
-  background-color: #ffd74b;
+  background-color: #ff0060;
   text-align: left;
+
 }
 
 img {
