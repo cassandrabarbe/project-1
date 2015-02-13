@@ -79,6 +79,7 @@ h2 {
   font-family: 'Sigmar One', sans-serif;
   line-height: 1;
   color: #b50560;
+  border-top: solid 0.75rem;
 }
 
 em {
@@ -98,6 +99,7 @@ blockquote {
   font-family: 'georgia', sans-serif;
   line-height: 1;
   color: #e9e6e7;
+  text-align: center;
 }
 
 
