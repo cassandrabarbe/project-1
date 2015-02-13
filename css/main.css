@@ -6,7 +6,7 @@ html {
 h1 {
 
   font-weight: normal;
-  font-size: 4rem;
+  font-size: 4em;
   font-style: normal;
   font-family: 'Sigmar One', sans-serif;
   line-height: 1;
@@ -28,7 +28,6 @@ nav{
 
 nav ol {
   list-style-type: none;
-  margins: 0em;
   padding: 0em;
 }
 
@@ -38,11 +37,10 @@ nav li{
 
 nav a{
   display: inline-block;
-  padding: 1em 1.5em
+  padding: 1em 1.5em;
   color: white;
   background-color: #ffd74b;
   text-decoration: none;
-  border-radius: 4px;
   padding: 1em 2em 0.5em 2em
 }
 
@@ -55,7 +53,7 @@ ol {
 
 li {
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 1em;
   font-style: normal;
   font-family: 'georgia', serif;
   line-height: 1;
@@ -68,18 +66,18 @@ a {
 }
 
 a:hover {
-  background-color: #b50560;
+  background-color: black;
 }
 
 h2 {
 
   font-weight: normal;
-  font-size: 2rem;
+  font-size: 2em;
   font-style: italic;
   font-family: 'Sigmar One', sans-serif;
   line-height: 1;
   color: #b50560;
-  border-top: solid 0.4rem;
+  border-top: solid 0.4em;
 }
 
 em {
@@ -94,7 +92,7 @@ strong {
 
 blockquote {
   font-weight: bold;
-  font-size: 0.85rem;
+  font-size: 0.85em;
   font-style: italic;
   font-family: 'georgia', sans-serif;
   line-height: 1;
@@ -112,7 +110,7 @@ ul {
 
 li {
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 1em;
   font-style: normal;
   font-family: 'Open Sans Condensed', sans-serif;
   line-height: 1;
@@ -128,7 +126,7 @@ figure{
 
 figcaption {
   font-weight: normal;
-  font-size: 0.9rem;
+  font-size: 0.9em;
   font-style: italic;
   font-family: 'Georgia', serif;
   line-height: 1;
@@ -138,8 +136,6 @@ figcaption {
 
 dt {
   font-weight: bold;
-}
-
 }
 
 footer {
@@ -154,7 +150,7 @@ img {
 
 h3 {
   font-weight: normal;
-  font-size: 1rem;
+  font-size: 1em;
   font-style: italic;
   font-family: 'Sigmar One', sans-serif;
   line-height: 1;
